@@ -14,8 +14,7 @@ Decryption is a process of converting encrypted text back to normal text.
 So the people have this software and password, can ready it easily.
 Feel safe and secure with any messages ,keep privacy.
 
-=====================================================================================================================================================================================================================
-**Tools_Used:**
+=================================**Tools_Used:**=================================
 
 1. TKinter:-
    It is a standard Python interface to the Tk GUI toolkit shipped with Python.Python Tkinter is the fastest and easiest way to create GUI applications.Creating a GUI using Tkinter is an easy task.
@@ -24,8 +23,7 @@ Feel safe and secure with any messages ,keep privacy.
    Base64 encoding is commonly used in data transport, email encryption, and web applications to transfer binary data safely over channels that only reliably support text content.
    In Python, the base64 module provides functionalities for encoding and decoding Base64.
    
-=====================================================================================================================================================================================================================
-***MAIN_SCREEN***
+================================***MAIN_SCREEN***================================
 
    ![0](https://github.com/user-attachments/assets/2389aef8-ef78-44c4-a26b-19bd248f4af0)
 
@@ -40,9 +38,11 @@ Feel safe and secure with any messages ,keep privacy.
 ***ENCRYPTION***
 
 *AFTER ENCRYPTING ABOVE MSG* 
+
 ![3](https://github.com/user-attachments/assets/18414bdc-6fea-4531-8f93-146823a4b25f)
 
 ***DECRYPTION***
 
 *AFTER DECRYPTING ABOVE ENCRYPTED MSG*
+
 ![4](https://github.com/user-attachments/assets/3acbc2bf-b9b9-4745-92c4-93fe1e549ef7)
